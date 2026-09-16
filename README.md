@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nishanth1610/My-Leetcode/tree/master/0007-reverse-integer) |
 | [1518-water-bottles](https://github.com/Nishanth1610/My-Leetcode/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3100-water-bottles-ii) |
 ## Simulation
