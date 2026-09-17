@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Nishanth1610/My-Leetcode/tree/master/0041-first-missing-positive) |
+| [0118-pascals-triangle](https://github.com/Nishanth1610/My-Leetcode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1518-water-bottles](https://github.com/Nishanth1610/My-Leetcode/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3100-water-bottles-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Nishanth1610/My-Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
