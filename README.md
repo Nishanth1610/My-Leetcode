@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Nishanth1610/My-Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Nishanth1610/My-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/0047-permutations-ii) |
 | [0118-pascals-triangle](https://github.com/Nishanth1610/My-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Nishanth1610/My-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
