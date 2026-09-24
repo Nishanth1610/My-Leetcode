@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nishanth1610/My-Leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Nishanth1610/My-Leetcode/tree/master/0268-missing-number) |
 | [1518-water-bottles](https://github.com/Nishanth1610/My-Leetcode/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3100-water-bottles-ii) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
 | [1518-water-bottles](https://github.com/Nishanth1610/My-Leetcode/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3100-water-bottles-ii) |
 ## Dynamic Programming
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Nishanth1610/My-Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -50,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Nishanth1610/My-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/0047-permutations-ii) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
