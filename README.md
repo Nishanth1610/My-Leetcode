@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nishanth1610/My-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/Nishanth1610/My-Leetcode/tree/master/0268-missing-number) |
+| [3525-find-x-value-of-array-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nishanth1610/My-Leetcode/tree/master/0268-missing-number) |
 | [1518-water-bottles](https://github.com/Nishanth1610/My-Leetcode/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3100-water-bottles-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
