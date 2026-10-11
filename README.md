@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nishanth1610/My-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Nishanth1610/My-Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Nishanth1610/My-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/0047-permutations-ii) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nishanth1610/My-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
