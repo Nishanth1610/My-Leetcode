@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Nishanth1610/My-Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Nishanth1610/My-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/Nishanth1610/My-Leetcode/tree/master/0091-decode-ways) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
