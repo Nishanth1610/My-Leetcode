@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Nishanth1610/My-Leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/0415-add-strings) |
 | [1518-water-bottles](https://github.com/Nishanth1610/My-Leetcode/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3100-water-bottles-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/0415-add-strings) |
 | [1518-water-bottles](https://github.com/Nishanth1610/My-Leetcode/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/3100-water-bottles-ii) |
 ## Dynamic Programming
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Nishanth1610/My-Leetcode/tree/master/0091-decode-ways) |
 | [0394-decode-string](https://github.com/Nishanth1610/My-Leetcode/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/0415-add-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
