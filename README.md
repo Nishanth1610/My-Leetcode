@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Nishanth1610/My-Leetcode/tree/master/0394-decode-string) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Nishanth1610/My-Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
