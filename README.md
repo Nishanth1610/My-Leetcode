@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nishanth1610/My-Leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Nishanth1610/My-Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Nishanth1610/My-Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/0415-add-strings) |
 | [1518-water-bottles](https://github.com/Nishanth1610/My-Leetcode/tree/master/1518-water-bottles) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nishanth1610/My-Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Nishanth1610/My-Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Nishanth1610/My-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nishanth1610/My-Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nishanth1610/My-Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nishanth1610/My-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
