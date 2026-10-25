@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nishanth1610/My-Leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Nishanth1610/My-Leetcode/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/Nishanth1610/My-Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Nishanth1610/My-Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Nishanth1610/My-Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Nishanth1610/My-Leetcode/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Nishanth1610/My-Leetcode/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/Nishanth1610/My-Leetcode/tree/master/0394-decode-string) |
 ## Linked List
 |  |
